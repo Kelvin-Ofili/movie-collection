@@ -1,0 +1,100 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Quantum Paradox",
+      "year": 2024,
+      "genre": "Sci-Fi",
+      "description": "A brilliant physicist discovers a way to manipulate time, but each change creates dangerous paradoxes that threaten reality itself.",
+      "poster": "https://via.placeholder.com/280x350/667eea/ffffff?text=Quantum+Paradox"
+    },
+    {
+      "id": 2,
+      "title": "Midnight Runner",
+      "year": 2023,
+      "genre": "Action",
+      "description": "An elite courier must deliver a mysterious package across a war-torn city before dawn, facing mercenaries and deadly obstacles.",
+      "poster": "https://via.placeholder.com/280x350/f093fb/ffffff?text=Midnight+Runner"
+    },
+    {
+      "id": 3,
+      "title": "The Last Goodbye",
+      "year": 2025,
+      "genre": "Drama",
+      "description": "A touching story of a family reuniting for one final summer at their childhood home before it's sold, rediscovering their bonds.",
+      "poster": "https://via.placeholder.com/280x350/4facfe/ffffff?text=Last+Goodbye"
+    },
+    {
+      "id": 4,
+      "title": "Coffee Shop Chronicles",
+      "year": 2024,
+      "genre": "Comedy",
+      "description": "A quirky barista navigates life, love, and the eccentric customers who make every day at the coffee shop an adventure.",
+      "poster": "https://via.placeholder.com/280x350/00f2fe/ffffff?text=Coffee+Chronicles"
+    },
+    {
+      "id": 5,
+      "title": "Silent Echo",
+      "year": 2023,
+      "genre": "Thriller",
+      "description": "A deaf woman witnesses a murder through her apartment window and must evade the killer who knows she saw everything.",
+      "poster": "https://via.placeholder.com/280x350/43e97b/ffffff?text=Silent+Echo"
+    },
+    {
+      "id": 6,
+      "title": "Starbound",
+      "year": 2025,
+      "genre": "Sci-Fi",
+      "description": "The first human colony on Mars struggles to survive when a mysterious alien signal leads them to an ancient discovery.",
+      "poster": "https://via.placeholder.com/280x350/fa709a/ffffff?text=Starbound"
+    },
+    {
+      "id": 7,
+      "title": "Hearts in Paris",
+      "year": 2024,
+      "genre": "Romance",
+      "description": "Two strangers meet in Paris and spend one magical night together, not knowing their paths are destined to cross again.",
+      "poster": "https://via.placeholder.com/280x350/fee140/ffffff?text=Hearts+in+Paris"
+    },
+    {
+      "id": 8,
+      "title": "The Heist Protocol",
+      "year": 2023,
+      "genre": "Action",
+      "description": "A team of skilled thieves must pull off an impossible heist to steal a priceless artifact from the world's most secure vault.",
+      "poster": "https://via.placeholder.com/280x350/30cfd0/ffffff?text=Heist+Protocol"
+    },
+    {
+      "id": 9,
+      "title": "Finding Home",
+      "year": 2025,
+      "genre": "Drama",
+      "description": "An adopted teen embarks on a journey to discover her biological family, learning profound lessons about identity and belonging.",
+      "poster": "https://via.placeholder.com/280x350/a8edea/ffffff?text=Finding+Home"
+    },
+    {
+      "id": 10,
+      "title": "Game Night Gone Wrong",
+      "year": 2024,
+      "genre": "Comedy",
+      "description": "What starts as a simple game night among friends spirals into chaos when they accidentally get involved in a real-life mystery.",
+      "poster": "https://via.placeholder.com/280x350/ffecd2/ffffff?text=Game+Night"
+    },
+    {
+      "id": 11,
+      "title": "Shadow Witness",
+      "year": 2023,
+      "genre": "Thriller",
+      "description": "A prosecutor receives anonymous tips that help solve cases, but soon realizes the informant might be the killer framing others.",
+      "poster": "https://via.placeholder.com/280x350/ff6b6b/ffffff?text=Shadow+Witness"
+    },
+    {
+      "id": 12,
+      "title": "Love Unscripted",
+      "year": 2025,
+      "genre": "Romance",
+      "description": "Two rival screenwriters are forced to collaborate on a romantic comedy, only to find their own love story unfolding off-screen.",
+      "poster": "https://via.placeholder.com/280x350/feca57/ffffff?text=Love+Unscripted"
+    }
+  ]
+}
