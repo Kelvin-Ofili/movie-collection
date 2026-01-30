@@ -1,68 +1,127 @@
-🎬 Movie Collection Web App
+# 🎬 Movie Collection Web App
 
-📋 Project Overview
-This project is a dynamic movie library web application developed for the Week 2 Task. It features a responsive grid layout of movie cards and a functional genre-based filtering system. The primary goal was to demonstrate professional Git collaboration and vanilla JavaScript DOM manipulation.
+## 📋 Project Overview
 
+The **Movie Collection Web App** is a dynamic movie library built as part of the **Week 2 Task**. The application displays a responsive grid of movie cards and includes a genre-based filtering system.
 
-🛠️ Project Setup
-To run this project locally, follow these steps:
+The project’s main objective was to demonstrate **professional Git collaboration practices** alongside **vanilla JavaScript DOM manipulation**.
 
-Clone the repository: git clone https://github.com/Kelvin-Ofili/movie-collection.git
+---
 
-Navigate to the directory: cd movie-collection
+## 🛠️ Project Setup
 
-Switch to the development branch: git checkout development
+Follow the steps below to run the project locally:
 
-Launch the App: Open index.html using the Live Server extension in VS Code to ensure the JavaScript fetch() API works correctly without CORS errors.
+1. **Clone the repository**
 
-💻 Available CLI Commands Used
+   ```bash
+   git clone https://github.com/Kelvin-Ofili/movie-collection.git
+   ```
 
-The project structure and version control were managed entirely through the Command Line Interface (CLI):
+2. **Navigate into the project directory**
 
-mkdir: Created the directory structure including css, js, assets, images, and js/data.
+   ```bash
+   cd movie-collection
+   ```
 
-touch: Created essential files like index.html, css/style.css, js/app.js, and js/data/movies.json.
+3. **Switch to the development branch**
 
-git init: Initialized the local repository.
+   ```bash
+   git checkout development
+   ```
 
-git checkout -b: Created separate branches for feature implementation.
+4. **Launch the application**
 
-git add . & git commit: Staged and saved progress with descriptive messages.
+   Open `index.html` using the **Live Server** extension in VS Code.
+   This ensures the JavaScript `fetch()` API works correctly without CORS issues.
 
-git push: Uploaded branches to the remote GitHub repository.
+---
 
-🚀 Git Workflow Steps
+## 💻 CLI Commands Used
 
-We utilized a professional branching strategy to manage collaboration:
+The entire project setup and version control were handled using the **Command Line Interface (CLI)**:
 
-Main Branch: Reserved for the final, production-ready submission.
+* `mkdir` – Created project directories such as `css`, `js`, `assets`, `images`, and `js/data`
+* `touch` – Created core files:
 
-Development Branch: Used as the primary integration branch for all features.
+  * `index.html`
+  * `css/style.css`
+  * `js/app.js`
+  * `js/data/movies.json`
+* `git init` – Initialized the local Git repository
+* `git checkout -b` – Created feature branches for isolated development
+* `git add .` & `git commit` – Tracked and saved progress with clear commit messages
+* `git push` – Pushed branches to the remote GitHub repository
 
-Feature Branches: Individual tasks (e.g., feature/js-logic, feature/documentation) were developed in isolation.
+---
 
-Pull Requests (PRs): All changes were reviewed and merged through GitHub to ensure code quality.
+## 🚀 Git Workflow
 
-✨ Feature List & Implementation Details
+A structured Git workflow was used to support collaboration and maintain code quality:
 
-Dynamic Card Rendering: JavaScript is used to fetch movie data from a JSON file and inject it into the DOM.
+* **Main Branch**
+  Contains the final, production-ready version of the project
 
-CSS Grid Layout: A responsive grid system was implemented to organize movie cards efficiently across all device sizes.
+* **Development Branch**
+  Acts as the integration branch for all features
 
-Genre Filtering: Users can filter the collection by clicking genre buttons, which triggers a JavaScript filter function.
+* **Feature Branches**
+  Used for individual tasks such as:
 
-Movie Metadata: Each card displays the Title, Release Year, Genre, and a Short Description.
+  * `feature/js-logic`
+  * `feature/documentation`
 
-👥 Team Member Contributions
+* **Pull Requests (PRs)**
+  All features were merged via GitHub PRs after review to ensure stability and consistency
 
-Student 1: Responsible for the repository setup, HTML structure, basic CSS styling, and the movies.json structure.
+---
 
-Student 2 (Me): Focused on the JavaScript logic, including the fetch() API implementation, dynamic card rendering, and genre filtering.
+## ✨ Features & Implementation Details
 
-🧠 Lessons Learned from Collaboration
+* **Dynamic Movie Card Rendering**
+  JavaScript fetches movie data from a local JSON file and dynamically injects content into the DOM
 
-Branch Management: Working on separate feature branches prevents code conflicts and keeps the project organized.
+* **Responsive CSS Grid Layout**
+  A flexible grid layout ensures the movie cards adapt smoothly across screen sizes
 
-Code Review Participation: Reviewing Pull Requests helped us maintain consistency and catch technical errors before final merging.
+* **Genre-Based Filtering**
+  Users can filter movies by genre using interactive buttons powered by JavaScript logic
 
-CLI Efficiency: Using CLI commands for file management and Git operations proved much faster than using a Graphical User Interface (GUI).
+* **Movie Metadata Display**
+  Each card includes:
+
+  * Title
+  * Release Year
+  * Genre
+  * Short Description
+
+---
+
+## 👥 Team Contributions
+
+* **Student 1**
+
+  * Repository setup
+  * HTML structure
+  * Base CSS styling
+  * `movies.json` data structure
+
+* **Student 2 (Me)**
+
+  * JavaScript logic
+  * `fetch()` API implementation
+  * Dynamic card rendering
+  * Genre filtering functionality
+
+---
+
+## 🧠 Lessons Learned
+
+* **Effective Branch Management**
+  Developing features in isolated branches minimized conflicts and improved workflow clarity
+
+* **Code Review Process**
+  Pull Request reviews helped catch errors early and improved overall code quality
+
+* **CLI Productivity**
+  Using the CLI for file management and Git operations proved faster and more efficient than relying on a GUI
