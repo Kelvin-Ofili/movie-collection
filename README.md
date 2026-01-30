@@ -1,6 +1,6 @@
-# 🎬 Movie Collection Web App
+# Movie Collection Web App
 
-## 📋 Project Overview
+## Project Overview
 
 The **Movie Collection Web App** is a dynamic movie library built as part of the **Week 2 Task**. The application displays a responsive grid of movie cards and includes a genre-based filtering system.
 
@@ -8,7 +8,7 @@ The project’s main objective was to demonstrate **professional Git collaborati
 
 ---
 
-## 🛠️ Project Setup
+## Project Setup
 
 Follow the steps below to run the project locally:
 
@@ -37,7 +37,7 @@ Follow the steps below to run the project locally:
 
 ---
 
-## 💻 CLI Commands Used
+## CLI Commands Used
 
 The entire project setup and version control were handled using the **Command Line Interface (CLI)**:
 
@@ -55,7 +55,7 @@ The entire project setup and version control were handled using the **Command Li
 
 ---
 
-## 🚀 Git Workflow
+## Git Workflow
 
 A structured Git workflow was used to support collaboration and maintain code quality:
 
@@ -76,7 +76,7 @@ A structured Git workflow was used to support collaboration and maintain code qu
 
 ---
 
-## ✨ Features & Implementation Details
+## Features & Implementation Details
 
 * **Dynamic Movie Card Rendering**
   JavaScript fetches movie data from a local JSON file and dynamically injects content into the DOM
@@ -97,16 +97,16 @@ A structured Git workflow was used to support collaboration and maintain code qu
 
 ---
 
-## 👥 Team Contributions
+## Team Contributions
 
-* **Student 1**
+* **Kevin**
 
   * Repository setup
   * HTML structure
   * Base CSS styling
   * `movies.json` data structure
 
-* **Student 2 (Me)**
+* **Fatihat**
 
   * JavaScript logic
   * `fetch()` API implementation
@@ -115,7 +115,7 @@ A structured Git workflow was used to support collaboration and maintain code qu
 
 ---
 
-## 🧠 Lessons Learned
+## Lessons Learned
 
 * **Effective Branch Management**
   Developing features in isolated branches minimized conflicts and improved workflow clarity
